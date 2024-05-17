@@ -57,7 +57,7 @@ Buka browser Chrome dengan dua profile yang berbeda.
 
 Di salah satu browser, buka URL admin:
 
-[http://localhost:8000/admin](http://localhost:8000/admin)
+[http://localhost:8000](http://localhost:8000)
 
 ### Langkah 3: Buka URL Client
 
